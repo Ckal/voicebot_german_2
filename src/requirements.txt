@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch
+gradio>=4.0.0
+SpeechRecognition
+mtranslate
+gTTS
+transformers>=4.35.0
+smolagents
